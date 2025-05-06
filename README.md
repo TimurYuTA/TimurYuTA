@@ -23,10 +23,6 @@
     />
   </a>
 </div>
-<br>
-<video autoplay muted loop>
-  <source type="video/mp4" src="./video/net-v2.mp4" />
-</video>
 
 
 ### About me
