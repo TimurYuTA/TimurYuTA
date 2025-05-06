@@ -24,6 +24,18 @@
   </a>
 </div>
 
+<br>
+
+<div id="image" align="center">
+  <img src="./img/DSC05269-v2.JPG" alt="Nature" />
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=30&duration=3000&pause=3000&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=50&lines=Today+is+the+Perfect+Day+to+be+Happy!"
+      alt="Today is the Perfect Day to be Happy!"
+    />
+  </a>
+</div>
+
 
 ### About me
 
