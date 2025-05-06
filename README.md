@@ -1,5 +1,12 @@
 <div id="header" align="center">
-  <h1>Hi there, I'm Timur!</h1>
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=50&duration=3000&pause=0&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Hi+there%2C+I'm+Timur!"
+        alt="Hi there, I'm Timur!"
+      />
+    </a>
+  </h1>
   <h3>Frontend Developer, website creation, layout</h3>
 </div>
 
